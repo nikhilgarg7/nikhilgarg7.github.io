@@ -1,5 +1,4 @@
 import React from "react"
-import Layout from "./layout";
 
 function contactAlt(props) {
     return (
