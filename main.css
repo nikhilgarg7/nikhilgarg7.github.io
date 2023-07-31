@@ -1,0 +1,60 @@
+/* Reset default margin and padding */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Set background color and text color */
+  body {
+    background-color: #f0f0f0;
+    color: #333;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Slideshow styling */
+  #slideshow {
+    width: 80%;
+    max-width: 800px;
+    margin: 20px auto;
+  }
+  
+  .slide {
+    display: none;
+  }
+  
+  .slide h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .slide p {
+    font-size: 16px;
+  }
+  
+  
+  .hidden {
+    display: none;
+  }
+  
+  /* Style the button */
+  #changeSlideBtn {
+    margin: 20px auto;
+    display: block;
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #changeSlideBtn:hover {
+    background-color: #0056b3;
+  }
+  
+  
+  
+  
+  
+  
+  
